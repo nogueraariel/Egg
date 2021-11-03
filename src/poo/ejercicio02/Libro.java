@@ -10,6 +10,7 @@ public class Libro {
     private int numeroPaginas;
     private int ejemplares;
     private int prestados;
+    private int devueltos;
     
     public Libro(){
         
