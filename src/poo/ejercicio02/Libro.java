@@ -11,6 +11,7 @@ public class Libro {
     private int ejemplares;
     private int prestados;
     private int devueltos;
+    private int perdidos;
     
     public Libro(){
         
