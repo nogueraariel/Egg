@@ -12,6 +12,7 @@ public class Libro {
     private int prestados;
     private int devueltos;
     private int perdidos;
+    private String editorial;
     
     public Libro(){
         
